@@ -1,6 +1,6 @@
 //
 //  array_index_and_change_of_position.c
-//  3.数组&位移
+//  4.数组&位移
 //
 //  Created by 谭必清 on 2023/01/09.
 //
