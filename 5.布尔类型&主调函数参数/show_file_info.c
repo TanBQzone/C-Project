@@ -1,3 +1,10 @@
+//
+//  show_file_info.c
+//  5.布尔类型&主调函数参数
+//
+//  Created by 谭必清 on 2023/01/14.
+//
+
 #include <stdio.h>
 #include <stdbool.h>
 
