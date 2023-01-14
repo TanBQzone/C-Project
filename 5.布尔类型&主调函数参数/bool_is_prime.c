@@ -1,3 +1,15 @@
+//
+//  bool_is_prime.c
+//  5.布尔类型&主调函数参数
+//
+//  Created by 谭必清 on 2023/01/14.
+//
+
+/*
+* 输入一个数，判断是否为素数
+* 使用bool类型创建一个函数
+*/
+
 #include <stdio.h>
 #include <stdbool.h>
 
