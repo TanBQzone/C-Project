@@ -1,6 +1,6 @@
 //
 //  line_up_for_water.c
-//  5.取水问题
+//  6.取水问题
 //
 //  Created by 谭必清 on 2023/07/18.
 //
